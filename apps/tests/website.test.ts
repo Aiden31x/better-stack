@@ -61,3 +61,11 @@ describe("Website gets created", () => {
         }
     })
 })
+
+
+
+describe("showuld be able to get all websites ",()=>{
+    it("Can fetch it's own websites", async ()=>{
+        
+    })
+})
